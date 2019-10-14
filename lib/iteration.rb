@@ -49,7 +49,7 @@ def total_even_pairs(src)
       newArr.push(src[i][0])
     elsif src[i][1]/2 == 0
       newArr.push(src[i][1])
-    else 
+    else
       newArr
     end
     i +=1
