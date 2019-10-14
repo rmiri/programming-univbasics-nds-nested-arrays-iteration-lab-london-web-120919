@@ -10,7 +10,7 @@ def join_ingredients(src)
 
   while i < src.count do
   p  "I love ${src[i][0]} and ${src[i][1]} on my pizza"
-  i += 1
+  i = i + 1
 
 end
 
