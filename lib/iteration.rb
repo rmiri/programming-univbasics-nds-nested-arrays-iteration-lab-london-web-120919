@@ -54,5 +54,5 @@ def total_even_pairs(src)
     end
     i +=1
   end
-  newArr
+  sum.newArr
 end
