@@ -9,7 +9,7 @@ def join_ingredients(src)
   index = 0
 
   while index < src.length do
-  p  "I love ${src[i][0]} and ${src[i][1]} on my pizza"
+  puts  "I love ${src[i][0]} and ${src[i][1]} on my pizza"
   i = i + 1
 
 end
